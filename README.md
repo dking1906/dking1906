@@ -6,18 +6,18 @@ City of Philadelphia | Division of Reentry
 
 ---
 
-I am Dr. DuShawn King, a data strategist with 15+ years of experience specializing in equity-focused strategies, program evaluation, and advanced analytics. As Director of Data & Evaluation for the City of Philadelphia, I lead initiatives to optimize resources, improve operations, and foster equity across diverse programs.
+I design and govern analytical assets so that insights remain interpretable, equity-aware, and usable by humans or agents. As Director of Data & Evaluation for the City of Philadelphia, I lead evaluation, resource optimization, and equity-focused work across reentry and workforce programs.
 
-My expertise includes tools like Tableau, Python, and SPSS to deliver actionable insights. My research focuses on the impact of distributed work arrangements on employee engagement, driving innovative solutions for workforce readiness and digital equity.
+In environments where systems can generate analysis quickly, the higher-leverage capability is structuring the data product—clear variables, documented relationships, evaluation logic, and human-in-the-loop checkpoints—rather than operating any single tool. My work bridges scholarly rigor (DBA, Temple University Fox School of Business) with operational implementation in government, reentry services, and digital modernization.
 
-Passionate about workforce management and the practical application of data and emerging technologies (including agentic AI systems and HITL/HOTL architectures) to complex public-sector challenges. I bridge scholarly rigor (DBA, Temple University Fox School of Business) with real-world implementation in government operations, reentry services, and digital modernization.
+A public example of this approach is the structured reentry analytics cohort: https://github.com/dking1906/reentry-analytics-portfolio
 
 ### Focus Areas
-- Enterprise data strategy & evaluation
-- Equity-centered program design and analytics
-- Workforce development & reentry innovation
+- Designing and governing data products for agent-assisted or human-in-the-loop analysis
+- Equity-centered evaluation and program design
+- Workforce development and reentry innovation
 - Applied AI governance and agentic systems in municipal contexts
-- Digital transformation and operational excellence
+- Enterprise data strategy and operational excellence
 
 ### Education
 - Doctor of Business Administration (DBA), Temple University Fox School of Business
@@ -26,4 +26,4 @@ Passionate about workforce management and the practical application of data and 
 
 ---
 
-*Profile aligned with professional presence on LinkedIn and public platforms. Open to collaboration on data strategy, evaluation, and applied AI in the public interest.*
+*Open to collaboration on data-product design, evaluation, and applied AI governance in the public interest.*
